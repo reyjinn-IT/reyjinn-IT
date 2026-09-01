@@ -1,17 +1,20 @@
 ## I'm Raihan Ananda (Reyjin)
 
 **I'm currently working on:**
+
 **ATS / CV Resume Parser Service**
 Java Spring Boot backend featuring high-precision Regex pattern matching for automated document data extraction.
 **LJK & Exam Administration System** 
 Web-based exam management and automated Optical Mark Recognition (OMR) grading system powered by Laravel.
 
 **I'm currently exploring:**
+
 **Application Security & Penetration Testing** 
 Deep diving into OWASP safety standards, vulnerability assessments (SQLi, CSRF, Command Injection), and web security.
 **Modern UI/UX Experiments** 
 Building clean, sleek, and minimalist web interface designs using modern frontend tools.
 **Tech Stack & Capabilities:**
+
 **Backend:** Java (Spring Boot), PHP (Laravel), RESTful APIs
 **Frontend:** Tailwind CSS, Alpine.js, React, TypeScript, Blade
 **Mobile:** Flutter and React Native
